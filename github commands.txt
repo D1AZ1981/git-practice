@@ -1,0 +1,5 @@
+github commands
+
+1. git initgi
+2. git remote add origin http://github.com/D1AZ1981/git-practice.git
+3. git add .
